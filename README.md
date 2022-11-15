@@ -4,7 +4,7 @@ This is a repo with one README file linking to TypeScript(TS) projects.
 ## Exercises
 - [ts-pretty-print-json](https://github.com/NadiaIdris/ts-pretty-print-json)
 - [ts-undo-redo-version-history](https://github.com/NadiaIdris/ts-undo-redo-version-history)
-- [ts-string-tokenizer](https://github.com/NadiaIdris/ts-string-tokenizer)
+- [ts-string-tokenizer and in-memory-api-rate-limiter](https://github.com/NadiaIdris/ts-string-tokenizer)
 - [cache-app-ts](https://github.com/NadiaIdris/cache-app-ts)
 - [ts-make-html-document-tree](https://github.com/NadiaIdris/ts-make-html-document-tree)
 - [promises-examples](https://github.com/NadiaIdris/promises-examples)
