@@ -1,5 +1,5 @@
 # About
-This is a repo with one README file linking to TypeScript(TS) projects.
+This is a repo with one README file linking to TypeScript(TS) projects helping engineers to become better programmers.
 
 ## Exercises
 - [ts-pretty-print-json](https://github.com/NadiaIdris/ts-pretty-print-json)
