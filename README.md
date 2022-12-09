@@ -10,3 +10,4 @@ This is a repo with one README file linking to TypeScript(TS) projects helping e
 - [promises-examples](https://github.com/NadiaIdris/promises-examples)
 - [parallel-data-fetching](https://github.com/NadiaIdris/parallel-data-fetching): This is an interesting project. Did you know that fetch API is built in C++ using multithreading? This means that we can make multiple HTTP requests and we can wait until all the promises settle using `Promise.allSettled()` method. This is faster than hitting one endpoint, then waiting the promise to resolve, unwrap it, do what you want with it and repeat.  
 - [ts-data-structures-and-algos](https://github.com/NadiaIdris/ts-data-structures-and-algos)
+- [ts-count-words](https://github.com/NadiaIdris/ts-count-words)
