@@ -12,3 +12,4 @@ This is a repo with one README file linking to TypeScript(TS) projects helping e
 - [ts-data-structures-and-algos](https://github.com/NadiaIdris/ts-data-structures-and-algos)
 - [ts-count-words](https://github.com/NadiaIdris/ts-count-words)
 - [ts-css-style-creator](https://github.com/NadiaIdris/ts-css-style-creator)
+- [ts-parenthesis-match](https://github.com/NadiaIdris/ts-parenthesis-match)
