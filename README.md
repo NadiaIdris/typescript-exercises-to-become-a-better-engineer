@@ -14,6 +14,7 @@ This is a repo with one README file linking to TypeScript(TS) projects helping e
 - [ts-css-style-creator](https://github.com/NadiaIdris/ts-css-style-creator)
 - [ts-parenthesis-match](https://github.com/NadiaIdris/ts-parenthesis-match)
 - [ts-react-billboard](https://github.com/NadiaIdris/ts-react-billboard)
+- [ts-notifications](https://github.com/NadiaIdris/ts-notifications) Private repo.
 
 
 # React components
